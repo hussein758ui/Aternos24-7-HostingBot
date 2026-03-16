@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "hussein-smp.aternos.me:62745",
+    "port": 62745,
     "version": "",
     "try-creative": false
   },
